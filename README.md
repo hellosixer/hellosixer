@@ -1,7 +1,6 @@
 
 
 <div align="center">
-  <a href="]https://www.youtube.com/watch?v=jykv21tklHI&list=RDjykv21tklHI&index=1">
     <img src="=https://hellosixer.straw.page" width="500">
   </a>
 </div>
