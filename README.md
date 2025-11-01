@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="]https://www.youtube.com/watch?v=jykv21tklHI&list=RDjykv21tklHI&index=1">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc0NN1LfvhKMuPFT-jMrMhga5gDvgYk2nXxg&s" width="500">
+    <img src="=https://hellosixer.straw.page" width="500">
   </a>
 </div>
 
